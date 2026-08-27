@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](https://raw.githubusercontent.com/ilcileyjunior01/ilcileyjunior01/master/banner.jpg)
 
 <h1 align="center">Ilciley Junior</h1>
 <h3 align="center">Data Engineer | AWS | Python | SQL</h3>
